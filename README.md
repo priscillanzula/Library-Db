@@ -30,7 +30,8 @@ The system consists of several interconnected tables that store different aspect
 ## Entity Relationship Diagram
 
 
-[liberd.pdf](https://github.com/user-attachments/files/20100247/liberd.pdf)
+![libraryErd](https://github.com/user-attachments/assets/3feac254-c775-4ed7-8e73-58d617c98e39)
+
 
 
 
