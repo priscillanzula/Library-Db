@@ -29,10 +29,10 @@ The system consists of several interconnected tables that store different aspect
 
 ## Entity Relationship Diagram
 
-```
+
 [liberd.pdf](https://github.com/user-attachments/files/20100247/liberd.pdf)
 
-```
+
 
 ## Installation
 
