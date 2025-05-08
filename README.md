@@ -117,4 +117,17 @@ After setting up the database, you can:
 - `transaction_date`: Date of the transaction
 - `return_date`: Expected return date
 - `status`: Current status ('borrowed' or 'returned')
+<table>
+   <tbody>
+      <tr>
 
+<td align="center">
+        <a href="https://github.com/priscillanzula">
+          <img src="https://avatars.githubusercontent.com/u/144167777?v=4" width="100;" alt="priscillanzula"/>
+          <br />
+          <sub><b>Priscilla Nzula</b></sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
