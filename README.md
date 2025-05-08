@@ -55,9 +55,9 @@ The system consists of several interconnected tables that store different aspect
    ```
 
 3. Execute the SQL script:
-   ```
-   source library.sql
-   ```
+
+   library.sql
+
 
 ## Usage
 
