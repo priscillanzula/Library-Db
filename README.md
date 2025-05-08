@@ -30,7 +30,8 @@ The system consists of several interconnected tables that store different aspect
 ## Entity Relationship Diagram
 
 
-![libraryErd](https://github.com/user-attachments/assets/3feac254-c775-4ed7-8e73-58d617c98e39)
+![ERD_Lib](https://github.com/user-attachments/assets/ed26d837-8119-4eb6-ac0f-17a60d0ecc67)
+
 
 
 
